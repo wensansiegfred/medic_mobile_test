@@ -1,0 +1,15 @@
+{
+  "name": "medic_mobile",
+  "version": "1.0.0",
+  "description": "Parse a monetary CSV and create new CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WensanSiegfred",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "yargs": "^10.0.3"
+  }
+}
